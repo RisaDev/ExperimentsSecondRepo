@@ -6,7 +6,7 @@
     "Punchline": "Customize your character beyond FFXIV's limitations.",
     "InternalName": "CustomizePlus",
     "AssemblyVersion": "1.0.0.5",
-    "TestingAssemblyVersion": "1.0.0.5",
+    "TestingAssemblyVersion": "1.0.0.6",
     "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -17,14 +17,14 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/Aether-Tools/CustomizePlus/releases/download/1.0.0.5/CustomizePlus.zip",
     "DownloadLinkUpdate": "https://github.com/Aether-Tools/CustomizePlus/releases/download/1.0.0.5/CustomizePlus.zip",
-    "DownloadLinkTesting": "https://github.com/Aether-Tools/CustomizePlus/releases/download/1.0.0.5/CustomizePlus.zip",
+    "DownloadLinkTesting": "https://github.com/Aether-Tools/CustomizePlus/releases/download/testing_1.0.0.6/CustomizePlus.zip",
     "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
-	"Tags": [
-		"Anamnesis",
-		"Customization",
-		"Appearance",
-		"Character",
-		"Risa"
-	]
+    "Tags": [
+      "Anamnesis",
+      "Customization",
+      "Appearance",
+      "Character",
+      "Risa"
+    ]
   }
 ]

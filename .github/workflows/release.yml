@@ -40,7 +40,7 @@ jobs:
         uses: actions/upload-artifact@v2.2.1
         with:
           path: |
-            ./Glamourer/bin/Release/*
+            ./CustomizePlus/bin/Release/*
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -48,7 +48,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ github.ref }}
-          release_name: Glamourer ${{ github.ref }}
+          release_name: CustomizePlus ${{ github.ref }}
           draft: false
           prerelease: false
       - name: Upload Release Asset
